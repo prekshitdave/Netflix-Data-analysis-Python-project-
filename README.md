@@ -49,12 +49,12 @@ This project explores a **Netflix movie dataset** to uncover patterns, trends, a
 ---
 
 ## 📷 Sample Visualizations  
-*(Add generated graphs here once you run the notebook — e.g., genre distribution, popularity trends, etc.)*  
+ <img width="564" height="431" alt="image" src="https://github.com/user-attachments/assets/cd88a328-8d32-4492-bee0-98ce952ea75a" />
+<img width="506" height="510" alt="image" src="https://github.com/user-attachments/assets/7694654f-65a2-48df-a433-9eb2a28fa2ef" />
 
 ---
 
 ## ▶️ How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   cd netflix-data-analysis
+    (https://github.com/prekshitdave/Netflix-Data-analysis-Python-project-)
