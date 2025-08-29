@@ -57,4 +57,4 @@ This project explores a **Netflix movie dataset** to uncover patterns, trends, a
 ## ▶️ How to Run the Project  
 1. Clone this repository:  
    ```bash
-    (https://github.com/prekshitdave/Netflix-Data-analysis-Python-project-)
+    (https://github.com/prekshitdave/Netflix-Data-analysis-Python-project-/tree/main)
